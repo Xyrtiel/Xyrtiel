@@ -49,7 +49,7 @@ Description : Site web interactif utilisant des technologies modernes.
 ---
 
 ## 📫 Contact
-- **Email** : geo.deparcy@gmail.com  
+- **Email** : geo.deparcy@gmail.com / geoffrey.deparcy@epitech.eu
 - **Téléphone** : 07 69 17 23 33  
 - **LinkedIn** : [Lien vers mon profil LinkedIn](https://www.linkedin.com/in/geoffrey-deparcy-39853232a/)  
 - **Portfolio/Projets GitHub** : [Lien vers mon profil GitHub](https://github.com/Xyrtiel)  
