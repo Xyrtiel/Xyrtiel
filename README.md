@@ -31,13 +31,13 @@ Bienvenue sur mon profil GitHub ! Étudiant passionné par le développement log
 ### 🔹 [Nom du Projet en C++](#)
 Description : Une application utilisant des algorithmes complexes pour [bref résumé].  
 
-### 🔹 [Nom du Projet en Python](#)
-Description : Projet orienté automatisation/scripting.  
+### 🔹 [Jeu de Stickman en Python](#)
+Description : Projet orienté en script étant un petit jeu Python.  
 
-### 🔹 [Nom du Projet Web (HTML/CSS/JavaScript)](#)
-Description : Site web interactif utilisant des technologies modernes pour un rendu dynamique.
+### 🔹 [Projet Site Restaurant (HTML/CSS/JavaScript)](https://github.com/Xyrtiel/site_restaurant.git)
+Description : Site web interactif utilisant des technologies modernes.
 
-➡️ **Accédez à mes projets détaillés dans les [repositories](https://github.com/votre_profil).**
+➡️ **Accédez à mes projets détaillés dans les [repositories](https://github.com/Xyrtiel).**
 
 ---
 
@@ -51,8 +51,8 @@ Description : Site web interactif utilisant des technologies modernes pour un re
 ## 📫 Contact
 - **Email** : geo.deparcy@gmail.com  
 - **Téléphone** : 07 69 17 23 33  
-- **LinkedIn** : [Lien vers votre profil LinkedIn](#)  
-- **Portfolio/Projets GitHub** : [Lien vers votre profil GitHub](https://github.com/votre_profil)  
+- **LinkedIn** : [Lien vers mon profil LinkedIn](https://www.linkedin.com/in/geoffrey-deparcy-39853232a/)  
+- **Portfolio/Projets GitHub** : [Lien vers mon profil GitHub](https://github.com/Xyrtiel)  
 
 ---
 
