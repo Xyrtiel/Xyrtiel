@@ -28,10 +28,10 @@ Bienvenue sur mon profil GitHub ! Étudiant passionné par le développement log
 
 ## 📂 Mes projets
 
-### 🔹 [Nom du Projet en C++](#)
-Description : Une application utilisant des algorithmes complexes pour [bref résumé].  
+### 🔹 [Projet C++ du Bateau](https://github.com/Xyrtiel/code_bateau)
+Description : Une application utilisant des algorithmes complexes pour afficher les fonctions d'un bateau
 
-### 🔹 [Jeu de Stickman en Python](#)
+### 🔹 [Jeu de Stickman en Python](https://github.com/Xyrtiel/stickman_game)
 Description : Projet orienté en script étant un petit jeu Python.  
 
 ### 🔹 [Projet Site Restaurant (HTML/CSS/JavaScript)](https://github.com/Xyrtiel/site_restaurant.git)
