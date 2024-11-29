@@ -3,7 +3,7 @@
 ### 🚀 Développeur en formation | Étudiant à **EPITECH**
 Bienvenue sur mon profil GitHub ! Étudiant passionné par le développement logiciel et les nouvelles technologies, je m'engage à transformer des idées complexes en solutions efficaces et innovantes.
 
-🎯 **Actuellement** : Je recherche une **alternance en développement logiciel** à partir de **janvier 2025** (rythme 3 jours en entreprise / 2 jours à l’école).
+🎯 **Actuellement** : Je recherche une **alternance en développement logiciel** à partir de **janvier 2025** et qui se finit en **juillet 2027** (rythme 3 jours en entreprise / 2 jours à l’école).
 
 ---
 
