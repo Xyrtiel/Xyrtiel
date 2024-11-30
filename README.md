@@ -5,6 +5,9 @@ Bienvenue sur mon profil GitHub ! Étudiant passionné par le développement log
 
 🎯 **Actuellement** : Je recherche une **alternance en développement logiciel** à partir de **janvier 2025** et qui se finit en **juillet 2027** (rythme 3 jours en entreprise / 2 jours à l’école).
 
+### 🔹 [Mon Portfolio](https://github.com/Xyrtiel/portfolio)
+(Pour le regarder, il vous suffit de télécharger le github via Zip et d'ouvrir le fichier "index.html" pour accéder au portfolio que j'ai entièrement codé.)
+
 ---
 
 ## 🛠️ Compétences techniques
