@@ -37,14 +37,8 @@ Description : Un projet réalisé avec 2 autres personnes sur un jeu de Tower De
 ### 🔹 [Projet de TodoList en Javascript avec React](https://github.com/Xyrtiel/To-Do-List)
 Description : Un projet centré sur Javascript avec React pour un To-Do-List.
 
-### 🔹 [Projet C++ du Bateau](https://github.com/Xyrtiel/code_bateau)
-Description : Une application utilisant des algorithmes complexes pour afficher les fonctions d'un bateau
-
 ### 🔹 [Jeu de Stickman en Python](https://github.com/Xyrtiel/stickman_game)
 Description : Projet orienté en script étant un petit jeu Python.  
-
-### 🔹 [Projet Site Restaurant (HTML/CSS/JavaScript)](https://github.com/Xyrtiel/site_restaurant.git)
-Description : Site web interactif utilisant des technologies modernes.
 
 ➡️ **Accédez à mes projets détaillés dans les [repositories](https://github.com/Xyrtiel).**
 
