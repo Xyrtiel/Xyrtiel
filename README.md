@@ -24,7 +24,7 @@ Bienvenue sur mon profil GitHub ! Étudiant passionné par le développement log
 ## 📂 Mes projets
 
 ### 🔹 [Projet de Jeu TowerDefense en Java](https://github.com/Xyrtiel/TowerDefense)
-Description : Un projet réalisé avec 2 autres personnes sur un jeu de Tower Defense possédant de nombreuses fonctionnalités et utilisant la biblioth_que JavaFX.
+Description : Un projet réalisé avec 2 autres personnes sur un jeu de Tower Defense possédant de nombreuses fonctionnalités et utilisant la bibliothèque JavaFX.
 
 ### 🔹 [Projet de TodoList en Javascript avec React](https://github.com/Xyrtiel/To-Do-List)
 Description : Un projet centré sur Javascript avec React pour un To-Do-List.
